@@ -2,6 +2,8 @@ import tkinter as tk
 import logging
 from connectors.bitmex_futures import get_contracts
 from connectors.binance_futures import BinanceFuturesClient
+import config
+import pprint
 
 logger = logging.getLogger()
 
@@ -26,8 +28,8 @@ logger.addHandler(file_handler)
 
 if __name__ == '__main__':
 
-    binanceObject = BinanceFuturesClient(True)
-    print(binanceObject.get_historical_candles("BTCUSDT", "1h"))
+    binanceObject = BinanceFuturesClient(config.BINANCE_KEY, config.BINANCE_SECRET, False)
+    pprint.pprint(binanceObject.get_balance())
 
     root = tk.Tk()
 

@@ -6,3 +6,11 @@
 2022-12-02 21:30:03,613 INFO :: Binance Futures Client successfully initialized
 2022-12-02 21:30:27,583 INFO :: Binance Futures Client successfully initialized
 2022-12-02 21:31:35,432 INFO :: Binance Futures Client successfully initialized
+2022-12-02 21:32:27,467 INFO :: Binance Futures Client successfully initialized
+2022-12-02 22:05:22,991 INFO :: Binance Futures Client successfully initialized
+2022-12-02 22:05:23,812 ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 105.112.16.130'} (error code 401)
+2022-12-02 22:05:44,449 INFO :: Binance Futures Client successfully initialized
+2022-12-02 22:06:09,107 INFO :: Binance Futures Client successfully initialized
+2022-12-02 22:06:50,511 INFO :: Binance Futures Client successfully initialized
+2022-12-02 22:10:19,578 INFO :: Binance Futures Client successfully initialized
+2022-12-02 22:11:29,319 INFO :: Binance Futures Client successfully initialized
