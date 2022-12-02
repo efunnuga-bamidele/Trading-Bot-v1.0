@@ -1,3 +1,7 @@
 ./venv
 /venv
 *.idea
+/.idea
+
+*config.py
+config.py
