@@ -10,4 +10,4 @@ def get_contracts():
     return contracts
 
 
-pprint.pprint(get_contracts())
+
