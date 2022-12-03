@@ -14,3 +14,25 @@
 2022-12-02 22:06:50,511 INFO :: Binance Futures Client successfully initialized
 2022-12-02 22:10:19,578 INFO :: Binance Futures Client successfully initialized
 2022-12-02 22:11:29,319 INFO :: Binance Futures Client successfully initialized
+2022-12-03 16:05:37,343 INFO :: Binance Futures Client successfully initialized
+2022-12-03 16:48:31,410 INFO :: Binance Futures Client successfully initialized
+2022-12-03 16:48:32,751 ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 105.112.75.47'} (error code 401)
+2022-12-03 16:48:45,639 INFO :: Binance Futures Client successfully initialized
+2022-12-03 16:48:46,416 ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 105.112.75.47'} (error code 401)
+2022-12-03 16:50:16,332 INFO :: Binance Futures Client successfully initialized
+2022-12-03 16:50:17,345 ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 105.112.75.47'} (error code 401)
+2022-12-03 16:50:34,736 INFO :: Binance Futures Client successfully initialized
+2022-12-03 16:50:36,195 ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 105.112.75.47'} (error code 401)
+2022-12-03 16:50:50,583 INFO :: Binance Futures Client successfully initialized
+2022-12-03 16:51:14,268 INFO :: Binance Futures Client successfully initialized
+2022-12-03 16:51:31,158 INFO :: Binance Futures Client successfully initialized
+2022-12-03 16:51:32,259 ERROR :: Error while making GET request to /fapi/v2/account: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action, request ip: 105.112.75.47'} (error code 401)
+2022-12-03 16:58:02,626 INFO :: Binance Futures Client successfully initialized
+2022-12-03 17:12:04,328 INFO :: Binance Futures Client successfully initialized
+2022-12-03 17:12:06,050 INFO :: Binance connection opened
+2022-12-03 17:24:28,899 INFO :: Binance Futures Client successfully initialized
+2022-12-03 17:24:30,769 INFO :: Binance connection opened
+2022-12-03 17:30:45,452 INFO :: Binance Futures Client successfully initialized
+2022-12-03 17:30:47,022 INFO :: Binance connection opened
+2022-12-03 17:31:52,094 INFO :: Binance Futures Client successfully initialized
+2022-12-03 17:31:53,722 INFO :: Binance connection opened

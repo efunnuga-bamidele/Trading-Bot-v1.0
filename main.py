@@ -5,6 +5,7 @@ from connectors.binance_futures import BinanceFuturesClient
 import config
 import pprint
 
+
 logger = logging.getLogger()
 
 # logger.debug("This message is important only when debugging the program")
@@ -29,10 +30,9 @@ logger.addHandler(file_handler)
 if __name__ == '__main__':
 
     binanceObject = BinanceFuturesClient(config.BINANCE_KEY, config.BINANCE_SECRET, False)
-    pprint.pprint(binanceObject.get_balance())
+    # binanceObject = BinanceFuturesClient(config.TESTNET_BINANCE_KEY, config.TESTNET_BINANCE_SECRET, True)
+    # pprint.pprint(binanceObject.get_balance())
 
     root = tk.Tk()
-
-
     root.mainloop()
 
